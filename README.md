@@ -51,11 +51,5 @@ The Organ Donation Portal based on blockcchain has the following Features:
 
 ![Admin Login](https://github.com/sneha-almeida/organ-donation-portal-blockchain/blob/main/view-hospitals.PNG)
 
-12) Assign Hospitals to doctor 
-
-![Admin Login](https://github.com/sneha-almeida/organ-donation-portal-blockchain/blob/main/doctor-hospital-link-1.PNG)
-
-
-
 
 
