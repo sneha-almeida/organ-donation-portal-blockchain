@@ -23,7 +23,13 @@ The Organ Donation Portal based on blockcchain has the following Features:
 
 5) Recording the donor-aaceptor match on a blockchain 
 
-![Admin Login](https://github.com/sneha-almeida/organ-donation-portal-blockchain/blob/main/home.png)
+
+![Admin Login](https://github.com/sneha-almeida/organ-donation-portal-blockchain/blob/main/match-1.PNG)
+
+
+
+![Admin Login](https://github.com/sneha-almeida/organ-donation-portal-blockchain/blob/main/ss-8.PNG)
+
 
 
 6) Adding Doctors 
@@ -33,34 +39,25 @@ The Organ Donation Portal based on blockcchain has the following Features:
 
 7) Vewing Doctors Added
 
-![Admin Login](https://github.com/sneha-almeida/organ-donation-portal-blockchain/blob/main/home.png)
+![Admin Login](https://github.com/sneha-almeida/organ-donation-portal-blockchain/blob/main/ss-10.PNG)
 
 
 8) Approving Doctors
 
-![Admin Login](https://github.com/sneha-almeida/organ-donation-portal-blockchain/blob/main/home.png)
+![Admin Login](https://github.com/sneha-almeida/organ-donation-portal-blockchain/blob/main/hdoctor-approval.PNG)
 
 
 9) Adding Hospitals 
 
 
-![Admin Login](https://github.com/sneha-almeida/organ-donation-portal-blockchain/blob/main/home.png)
+![Admin Login](https://github.com/sneha-almeida/organ-donation-portal-blockchain/blob/main/add-hospital.PNG)
 
 
 10) Vewing Hospitals added
 
 
-![Admin Login](https://github.com/sneha-almeida/organ-donation-portal-blockchain/blob/main/home.png)
+![Admin Login](https://github.com/sneha-almeida/organ-donation-portal-blockchain/blob/main/view-hospitals.PNG)
 
 
-11) Approving Hospitals 
-
-
-![Admin Login](https://github.com/sneha-almeida/organ-donation-portal-blockchain/blob/main/home.png)
-
-
-12) Assigning a doctor to a hospital 
-
-![Admin Login](https://github.com/sneha-almeida/organ-donation-portal-blockchain/blob/main/home.png)
 
 
